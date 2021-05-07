@@ -1,7 +1,7 @@
 Source: hello
 Section: devel
 Priority: optional
-Maintainer: Santiago Vila <sanvila@debian.org>
+Maintainer: Mark Hymers <mark.hymers@pexip.com>
 Standards-Version: 4.3.0
 Build-Depends: debhelper-compat (= 9)
 Homepage: http://www.gnu.org/software/hello/
